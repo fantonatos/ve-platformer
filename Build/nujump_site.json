@@ -1,0 +1,12 @@
+{
+"companyName": "Nuapps",
+"productName": "Virtual Enterprise Platformer",
+"dataUrl": "nujump_site.data.unityweb",
+"wasmCodeUrl": "nujump_site.wasm.code.unityweb",
+"wasmFrameworkUrl": "nujump_site.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
